@@ -2,7 +2,7 @@ import java.util.Scanner;
 import java.io.*;
 
 /**
- * Hia Ghosh's 205 DS class.
+ * 
  * 
  * @author amanda
  *
